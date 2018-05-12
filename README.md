@@ -1,7 +1,7 @@
 # TeleHealth_Website_Version1
 
 ### Project Background
-This website was designed as part of a school project to raise awareness about the various “Smart Nation” initiatives in Singapore. Among the myriad of initiatives available, I have chosen TeleHealth as I believe that while it promises much potential, it is something that is still relatively unheard of today.
+This website was designed as part of a school project to raise awareness about the various “Smart Nation” initiatives in Singapore. I have chosen TeleHealth as I believe that while it promises much potential, it is something that is still relatively unheard of today.
 
 This website was designed using <b>HTML5</b> and <b>CSS</b>. The text editor <b>Brackets</b> really came in handy with its <i>Live Preview</i> feature!
 
