@@ -5,7 +5,7 @@ This website was designed as part of a school project to raise awareness about t
 
 This website was designed using <b>HTML5</b> and <b>CSS</b>. The text editor <b>Brackets</b> really came in handy with its <i>Live Preview</i> feature!
 
-Credits to <b>Jonas Schmedtmann</b> and his <i>Omnifood</i> website, which served as an inspiration for me and it was from which I adapted to create this webpage. 
+Credits to <b>Jonas Schmedtmann</b> and his <i>Omnifood</i> website, which served as an inspiration for me and it was from which I adapted to create this webpage. If you’re keen on website design as well, I’d recommend checking out his courses on Udemy as that’s where I picked up my skills for this website.
 
 ### Viewing the Website
 1) Clone this repository.
@@ -15,6 +15,7 @@ Credits to <b>Jonas Schmedtmann</b> and his <i>Omnifood</i> website, which serve
 
 Hope you learnt a little something from my simple website design! 
 
-Since you're here, why not check out my website as well? www.thebackyardmoose.com 
+Since you're here, why not check out my website as well? www.thebackyardmoose.com
+
 There's lots of exciting projects and stories coming up, so don't forget to check back every now and then. <i>Adios!</i>
 
