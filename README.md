@@ -1,4 +1,4 @@
-# TeleHealth_Website (NTU CZ1002)
+# TeleHealth-Website (CZ1002)
 
 ## Project Background
 
